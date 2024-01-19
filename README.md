@@ -1,16 +1,21 @@
-# grade_manager_app
+# Grade Manager App
 
-A new Flutter project.
+Here is a video demo of the application:
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+https://github.com/Jacob-Landicho/Grade-Manager-App/assets/157124290/20177a5c-548d-41e4-9c7d-7c8c2396cf1c
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+## Description
+
+This application allows the user to add, edit, delete, sort, graph, search and filter grades. Additionally, the user can import or export grades via CSV.
+
+
+## Project Tools
+This project was created using:
+
+- Flutter
+- SQLite
+- Android Studio
